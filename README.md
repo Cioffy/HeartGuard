@@ -1,6 +1,4 @@
 # HeartGuard
-Machine Learning Exam Repository
-Abstract
 The research of applying machine learning to the medical field is some of the most fascinating and complicated.
 Through this research it is possible, given a dataset, to apply a set of algorithms to be able to understand how accurately 
 it is feasible to even estimate a chance of alerting a person with a certain probability for a heart problem.
